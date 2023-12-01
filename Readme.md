@@ -4,6 +4,9 @@
 
 - [@Valiantsin2021](https://www.github.com/Valiantsin2021) [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
+[![Test local app in a docker container (Playwright)](https://github.com/Valiantsin2021/Playwright-API-tests-with-custom-API-handler-module/actions/workflows/dockerized_tests.yml/badge.svg)](https://github.com/Valiantsin2021/Playwright-API-tests-with-custom-API-handler-module/actions/workflows/dockerized_tests.yml)
+
+
 ## Repository Overview
 
 This repository provides an example of the API automated tests with custom API Handler fixture and Logger. Includes:
