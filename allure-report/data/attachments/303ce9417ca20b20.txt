@@ -1,0 +1,45 @@
+
+<<<<<<<<<<<<<<<<< SENDING REQUEST <<<<<<<<<<<<<<<<<
+Request URL: 
+https://airportgap.com/api/favorites
+Request data: 
+
+null
+<<<<<<<<<<<<<<<<< END OF REQUEST <<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<< RECEIVING RESPONSE <<<<<<<<<<<<<<<<<
+Response status: 
+200
+Response data: 
+
+{
+    data: [
+        {
+            id: '12765',
+            type: 'favorite',
+            attributes: {
+                airport: {
+                    id: 3158,
+                    name: 'Kansai International Airport',
+                    city: 'Osaka',
+                    country: 'Japan',
+                    iata: 'KIX',
+                    icao: 'RJBB',
+                    latitude: '34.427299',
+                    longitude: '135.244003',
+                    altitude: 26,
+                    timezone: 'Asia/Tokyo'
+                },
+                note: 'My usual layover when visiting family'
+            }
+        }
+    ],
+    links: {
+        first: 'https://airportgap.com/api/favorites',
+        self: 'https://airportgap.com/api/favorites',
+        last: 'https://airportgap.com/api/favorites?page=1',
+        prev: 'https://airportgap.com/api/favorites',
+        next: 'https://airportgap.com/api/favorites'
+    }
+}
+<<<<<<<<<<<<<<<<< END OF RESPONSE <<<<<<<<<<<<<<<<<

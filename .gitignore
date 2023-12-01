@@ -1,0 +1,10 @@
+node_modules/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+allure-results
+report
+utils/dataFactory.js
+utils/FilesHandler.js
+utils/Logger.js
+.env
