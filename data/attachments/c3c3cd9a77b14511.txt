@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<< SENDING REQUEST <<<<<<<<<<<<<<<<<
+Request URL: 
+https://airportgap.com/api/airports/KIX
+Request data: 
+
+null
+<<<<<<<<<<<<<<<<< END OF REQUEST <<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<< RECEIVING RESPONSE <<<<<<<<<<<<<<<<<
+Response status: 
+200
+Response data: 
+
+{
+    data: {
+        id: 'KIX',
+        type: 'airport',
+        attributes: {
+            name: 'Kansai International Airport',
+            city: 'Osaka',
+            country: 'Japan',
+            iata: 'KIX',
+            icao: 'RJBB',
+            latitude: '34.427299',
+            longitude: '135.244003',
+            altitude: 26,
+            timezone: 'Asia/Tokyo'
+        }
+    }
+}
+<<<<<<<<<<<<<<<<< END OF RESPONSE <<<<<<<<<<<<<<<<<

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<< SENDING REQUEST <<<<<<<<<<<<<<<<<
+Request URL: 
+https://airportgap.com/api/favorites/12765
+Request data: 
+
+null
+<<<<<<<<<<<<<<<<< END OF REQUEST <<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<< RECEIVING RESPONSE <<<<<<<<<<<<<<<<<
+Response status: 
+204
+Response data: 
+
+''
+<<<<<<<<<<<<<<<<< END OF RESPONSE <<<<<<<<<<<<<<<<<
