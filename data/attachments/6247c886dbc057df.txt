@@ -1,20 +1,20 @@
 
 <<<<<<<<<<<<<<<<< SENDING REQUEST <<<<<<<<<<<<<<<<<
 Request URL: 
-https://airportgap.com/api/favorites
+https://airportgap.com/api/favorites/13594
 Request data: 
 
-{ airport_id: 'KIX' }
+null
 <<<<<<<<<<<<<<<<< END OF REQUEST <<<<<<<<<<<<<<<<<
 
 <<<<<<<<<<<<<<<<< RECEIVING RESPONSE <<<<<<<<<<<<<<<<<
 Response status: 
-201
+200
 Response data: 
 
 {
     data: {
-        id: '12770',
+        id: '13594',
         type: 'favorite',
         attributes: {
             airport: {
