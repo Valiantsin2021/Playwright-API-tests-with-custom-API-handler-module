@@ -47,5 +47,9 @@
     "husky": "^4.3.8",
     "prettier": "3.0.3",
     "rimraf": "3.0.0"
+  },
+  "dependencies": {
+    "@influxdata/influxdb-client": "^1.33.2",
+    "D": "^1.0.0"
   }
 }

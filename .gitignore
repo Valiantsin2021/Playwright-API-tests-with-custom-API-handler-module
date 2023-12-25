@@ -8,3 +8,4 @@ utils/dataFactory.js
 utils/FilesHandler.js
 utils/Logger.js
 .env
+influxdb2
