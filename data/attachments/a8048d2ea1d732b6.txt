@@ -1,20 +1,20 @@
 
 <<<<<<<<<<<<<<<<< SENDING REQUEST <<<<<<<<<<<<<<<<<
 Request URL: 
-https://airportgap.com/api/favorites/13596
+https://airportgap.com/api/favorites
 Request data: 
 
-{ airport_id: 'KIX', note: 'My usual layover when visiting family' }
+{ airport_id: 'KIX' }
 <<<<<<<<<<<<<<<<< END OF REQUEST <<<<<<<<<<<<<<<<<
 
 <<<<<<<<<<<<<<<<< RECEIVING RESPONSE <<<<<<<<<<<<<<<<<
 Response status: 
-200
+201
 Response data: 
 
 {
     data: {
-        id: '13596',
+        id: '13597',
         type: 'favorite',
         attributes: {
             airport: {
@@ -29,7 +29,7 @@ Response data:
                 altitude: 26,
                 timezone: 'Asia/Tokyo'
             },
-            note: 'My usual layover when visiting family'
+            note: null
         }
     }
 }

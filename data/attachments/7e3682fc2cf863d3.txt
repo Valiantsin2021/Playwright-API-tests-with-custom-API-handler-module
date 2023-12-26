@@ -15,7 +15,7 @@ Response data:
 {
     data: [
         {
-            id: '13596',
+            id: '13597',
             type: 'favorite',
             attributes: {
                 airport: {
@@ -30,7 +30,7 @@ Response data:
                     altitude: 26,
                     timezone: 'Asia/Tokyo'
                 },
-                note: null
+                note: 'My usual layover when visiting family'
             }
         }
     ],
