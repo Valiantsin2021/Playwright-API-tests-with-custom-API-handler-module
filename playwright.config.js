@@ -22,6 +22,7 @@ export default defineConfig({
   ignoreSnapshots: process.env.CI ? true : false,
   reporter: [
     ['list', { printSteps: true }],
+    ['indent-list-reporter'],
     [
       'allure-playwright',
       {
