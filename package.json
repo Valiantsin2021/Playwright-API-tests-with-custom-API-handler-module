@@ -50,7 +50,6 @@
     "rimraf": "3.0.0"
   },
   "dependencies": {
-    "@influxdata/influxdb-client": "^1.33.2",
-    "D": "^1.0.0"
+    "@influxdata/influxdb-client": "^1.33.2"
   }
 }
